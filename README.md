@@ -1,11 +1,11 @@
 # Demo
 
-description
+Just a demo repository I used for freecodecamp Git course!
 
-## Hello
+
+### Hello
 
 This git tutorial is fire
-edit
 
 ## Local development
 
